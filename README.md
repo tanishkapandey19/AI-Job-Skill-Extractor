@@ -6,4 +6,4 @@ This project uses Python to perform keyword extraction on job descriptions. It s
 * Pandas (Data structuring)
 * Jupyter Notebooks
 * String Manipulation & Logic-based Extraction
-*
+
